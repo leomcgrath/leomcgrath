@@ -6,7 +6,6 @@
 
 🚀 Currently working on:
 - A **“friendly betting” app** that brings prediction markets to friend groups (inspired by Polymarket, but with good vibes only)
-- Visualizing data using **Cytoscape** and **Supabase** for a real-time relationship tracker
 - Internal projects and events with **BRAIN NTNU** (AI Student Organization) and **Arrkom** (social committee of Abakus)
 
 🌍 I’ve also:
