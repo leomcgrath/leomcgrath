@@ -44,15 +44,3 @@
 - Or right here on GitHub!
 
 
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 I’m currently working on exciting projects!
-- 🌱 I’m always learning new technologies.
-- 💬 Ask me about anything tech-related.
-- 📫 How to reach me: [your-email@example.com]
-
----
-
