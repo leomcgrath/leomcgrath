@@ -14,7 +14,7 @@
 - Interned at [Equinor]
 
 🛠️ Stack I use and love:
-- **Languages**: JavaScript, TypeScript, Python, Java, C, SQL
+- **Languages**: JavaScript, TypeScript, Python, Java, SQL, Assembly
 - **Frameworks/Libs**: React, Next.js, Tailwind, Node.js, Express, JUnit, Mockito, Pandas, SparkSQL
 - **Tools**: Supabase, Firebase, Git, Docker, Figma, LaTeX, Cytoscape  
 - **Other interests**: Algorithms & Operating Systems, UI/UX
