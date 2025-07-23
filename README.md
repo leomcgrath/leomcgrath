@@ -1,4 +1,20 @@
-# 👋 Hi, I'm Leo Lie McGrath
+<!-- GitHub Profile README -->
+
+<h1 align="center">Hi there 👋, I'm Leo Lie McGrath</h1>
+<p align="center">Welcome to my GitHub profile!</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomcgrath&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 
 🎓 I'm a Computer Science M.Sc. student at NTNU (Norwegian University of Science and Technology), currently in my third year, specializing in **Artificial Intelligence**.
 
@@ -20,9 +36,23 @@
 - **Other interests**: Algorithms & Operating Systems, UI/UX
 
 🎺 Fun facts:
-- Trumpet player and party planner — I live for the duality of deep focus and chaotic vibes
+- Trumpet player and party planner
 - Ran a beer mile. Sober-coded a Supabase listener before and after. Still undefeated.
 
 📫 Reach me on:
 - [LinkedIn](https://www.linkedin.com/in/leo-lie-mcgrath-2b4692284/)
 - Or right here on GitHub!
+
+
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 I’m currently working on exciting projects!
+- 🌱 I’m always learning new technologies.
+- 💬 Ask me about anything tech-related.
+- 📫 How to reach me: [your-email@example.com]
+
+---
+
