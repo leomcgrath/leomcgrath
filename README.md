@@ -22,7 +22,6 @@
 🎺 Fun facts:
 - Trumpet player and party planner — I live for the duality of deep focus and chaotic vibes
 - Ran a beer mile. Sober-coded a Supabase listener before and after. Still undefeated.
-- Currently trying to quit energy drinks. Ask me how it’s going. (It’s not.)
 
 📫 Reach me on:
 - [LinkedIn](https://www.linkedin.com/in/leo-lie-mcgrath-2b4692284/)
